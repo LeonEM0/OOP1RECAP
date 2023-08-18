@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\OOP_recap\Bidimensional_Array\bin\Debug\Bidimensional_Array.exe.config
+C:\Users\Admin\Desktop\OOP_recap\Bidimensional_Array\bin\Debug\Bidimensional_Array.exe
+C:\Users\Admin\Desktop\OOP_recap\Bidimensional_Array\bin\Debug\Bidimensional_Array.pdb
+C:\Users\Admin\Desktop\OOP_recap\Bidimensional_Array\obj\Debug\Bidimensional_Array.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\OOP_recap\Bidimensional_Array\obj\Debug\Bidimensional_Array.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\OOP_recap\Bidimensional_Array\obj\Debug\Bidimensional_Array.exe
+C:\Users\Admin\Desktop\OOP_recap\Bidimensional_Array\obj\Debug\Bidimensional_Array.pdb

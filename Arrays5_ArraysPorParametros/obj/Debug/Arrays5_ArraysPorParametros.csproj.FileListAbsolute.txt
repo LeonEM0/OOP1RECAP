@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\OOP_recap\Arrays5_ArraysPorParametros\bin\Debug\Arrays5_ArraysPorParametros.exe.config
+C:\Users\Admin\Desktop\OOP_recap\Arrays5_ArraysPorParametros\bin\Debug\Arrays5_ArraysPorParametros.exe
+C:\Users\Admin\Desktop\OOP_recap\Arrays5_ArraysPorParametros\bin\Debug\Arrays5_ArraysPorParametros.pdb
+C:\Users\Admin\Desktop\OOP_recap\Arrays5_ArraysPorParametros\obj\Debug\Arrays5_ArraysPorParametros.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\OOP_recap\Arrays5_ArraysPorParametros\obj\Debug\Arrays5_ArraysPorParametros.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\OOP_recap\Arrays5_ArraysPorParametros\obj\Debug\Arrays5_ArraysPorParametros.exe
+C:\Users\Admin\Desktop\OOP_recap\Arrays5_ArraysPorParametros\obj\Debug\Arrays5_ArraysPorParametros.pdb

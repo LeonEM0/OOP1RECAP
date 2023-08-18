@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\OOP_recap\FileIO_51_OOP_RECAP\bin\Debug\FileIO_51_OOP_RECAP.exe.config
+C:\Users\Admin\Desktop\OOP_recap\FileIO_51_OOP_RECAP\bin\Debug\FileIO_51_OOP_RECAP.exe
+C:\Users\Admin\Desktop\OOP_recap\FileIO_51_OOP_RECAP\bin\Debug\FileIO_51_OOP_RECAP.pdb
+C:\Users\Admin\Desktop\OOP_recap\FileIO_51_OOP_RECAP\obj\Debug\FileIO_51_OOP_RECAP.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\OOP_recap\FileIO_51_OOP_RECAP\obj\Debug\FileIO_51_OOP_RECAP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\OOP_recap\FileIO_51_OOP_RECAP\obj\Debug\FileIO_51_OOP_RECAP.exe
+C:\Users\Admin\Desktop\OOP_recap\FileIO_51_OOP_RECAP\obj\Debug\FileIO_51_OOP_RECAP.pdb
