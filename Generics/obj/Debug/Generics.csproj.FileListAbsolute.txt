@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\OOP_recap\Generics\bin\Debug\Generics.exe.config
+C:\Users\Admin\Desktop\OOP_recap\Generics\bin\Debug\Generics.exe
+C:\Users\Admin\Desktop\OOP_recap\Generics\bin\Debug\Generics.pdb
+C:\Users\Admin\Desktop\OOP_recap\Generics\obj\Debug\Generics.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\OOP_recap\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\OOP_recap\Generics\obj\Debug\Generics.exe
+C:\Users\Admin\Desktop\OOP_recap\Generics\obj\Debug\Generics.pdb
