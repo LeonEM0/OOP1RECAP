@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\OOP_recap\Collections\bin\Debug\Collections.exe.config
+C:\Users\Admin\Desktop\OOP_recap\Collections\bin\Debug\Collections.exe
+C:\Users\Admin\Desktop\OOP_recap\Collections\bin\Debug\Collections.pdb
+C:\Users\Admin\Desktop\OOP_recap\Collections\obj\Debug\Collections.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\OOP_recap\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\OOP_recap\Collections\obj\Debug\Collections.exe
+C:\Users\Admin\Desktop\OOP_recap\Collections\obj\Debug\Collections.pdb
