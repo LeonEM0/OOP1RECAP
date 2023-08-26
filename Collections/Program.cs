@@ -23,9 +23,9 @@ namespace Collections
             Console.WriteLine("You need to add system collections. Generic library");
             Console.WriteLine("Similar to an array but, IT CAN DYNAMICALLY INCREASE OR DECREASE IN SIZE ");
 
-            Players player1 = new Players("Leon");
-            Players player2 = new Players("Christian");
-            Players player3 = new Players("Maximo");
+            Players player1 = new Players("Leon", 2210228, 76.5f,'m'); ;
+            Players player2 = new Players("Christian",2210229,90.60f,'m');
+            Players player3 = new Players("Chona",221011,99.92f,'f');
 
             player.Add(player1);
             player.Add(player2);
@@ -60,8 +60,8 @@ namespace Collections
             }
             Console.WriteLine("\n");
             foreach(Players p in player)
-            {
-                Console.WriteLine(p.username);
+            { 
+                Console.WriteLine(p.ToString());
             }
             Console.WriteLine("\n");
             

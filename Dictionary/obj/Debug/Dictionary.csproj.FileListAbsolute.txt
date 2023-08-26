@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\OOP_recap\Dictionary\bin\Debug\Dictionary.exe.config
+C:\Users\Admin\Desktop\OOP_recap\Dictionary\bin\Debug\Dictionary.exe
+C:\Users\Admin\Desktop\OOP_recap\Dictionary\bin\Debug\Dictionary.pdb
+C:\Users\Admin\Desktop\OOP_recap\Dictionary\obj\Debug\Dictionary.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\OOP_recap\Dictionary\obj\Debug\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\OOP_recap\Dictionary\obj\Debug\Dictionary.exe
+C:\Users\Admin\Desktop\OOP_recap\Dictionary\obj\Debug\Dictionary.pdb
