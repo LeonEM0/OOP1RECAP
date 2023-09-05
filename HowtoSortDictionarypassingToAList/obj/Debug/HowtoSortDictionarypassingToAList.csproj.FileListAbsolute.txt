@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\OOP_recap\HowtoSortDictionarypassingToAList\bin\Debug\HowtoSortDictionarypassingToAList.exe.config
+C:\Users\Admin\Desktop\OOP_recap\HowtoSortDictionarypassingToAList\bin\Debug\HowtoSortDictionarypassingToAList.exe
+C:\Users\Admin\Desktop\OOP_recap\HowtoSortDictionarypassingToAList\bin\Debug\HowtoSortDictionarypassingToAList.pdb
+C:\Users\Admin\Desktop\OOP_recap\HowtoSortDictionarypassingToAList\obj\Debug\HowtoSortDictionarypassingToAList.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\OOP_recap\HowtoSortDictionarypassingToAList\obj\Debug\HowtoSortDictionarypassingToAList.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\OOP_recap\HowtoSortDictionarypassingToAList\obj\Debug\HowtoSortDictionarypassingToAList.exe
+C:\Users\Admin\Desktop\OOP_recap\HowtoSortDictionarypassingToAList\obj\Debug\HowtoSortDictionarypassingToAList.pdb

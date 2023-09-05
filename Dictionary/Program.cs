@@ -11,7 +11,8 @@ namespace Dictionary
         static void Main(string[] args)
         {
             Dictionary<int, string> countries = new Dictionary<int,string>();
-            var fertility_rate = new Dictionary<string, float>();
+           var fertility_rate = new Dictionary<string, float>();
+            List<KeyValuePair<string, float>> fertiliy_rate_list = new List<KeyValuePair<string, float>>();
 
             countries.Add(0, " Mexico");
             countries.Add(1, " Usa");
@@ -49,10 +50,42 @@ namespace Dictionary
 
 
             }
+            
+           for (int i = 1; i <5; i++)
+           {
+                fertility_rate["Mexico"] = fertility_rate["Mexico"]-0.2f  ;
+                fertility_rate["Usa"] = fertility_rate["Usa"] - 0.2f;
+                fertility_rate["Canada"] = fertility_rate["Canada"] - 0.2f;
+                fertility_rate["India"] = fertility_rate["India"] - 0.2f;
+                fertility_rate["China"] = fertility_rate["China"] - 0.2f;
+                fertility_rate["Russia"] = fertility_rate["Russia"] - 0.2f;
+                fertility_rate["Ukraine"] = fertility_rate["Ukraine"] - 0.2f;
+
+                Console.WriteLine("\n");
+
+                DisplayDictionary(fertility_rate);
+
+           }
+           
+           
+            Console.WriteLine("\n");
+
+          
+           
+
+
             Console.ReadKey();
         }
         //Remove and Change with the key
 
+        public static void DisplayDictionary(Dictionary<string,float> birthrate)
+        {
+            foreach (KeyValuePair<string, float> pais in birthrate)
+            {
+                Console.WriteLine("country" + pais.Key + "fertulity" + pais.Value);
+            }
+
+        }
         //SORT METHOD IS NOT AVAILABLE IN A DICTIONARY
     }
 }

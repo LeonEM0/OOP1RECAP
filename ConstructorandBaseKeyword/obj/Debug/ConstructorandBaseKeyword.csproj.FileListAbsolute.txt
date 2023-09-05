@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\OOP_recap\ConstructorandBaseKeyword\bin\Debug\ConstructorandBaseKeyword.exe.config
+C:\Users\Admin\Desktop\OOP_recap\ConstructorandBaseKeyword\bin\Debug\ConstructorandBaseKeyword.exe
+C:\Users\Admin\Desktop\OOP_recap\ConstructorandBaseKeyword\bin\Debug\ConstructorandBaseKeyword.pdb
+C:\Users\Admin\Desktop\OOP_recap\ConstructorandBaseKeyword\obj\Debug\ConstructorandBaseKeyword.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\OOP_recap\ConstructorandBaseKeyword\obj\Debug\ConstructorandBaseKeyword.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\OOP_recap\ConstructorandBaseKeyword\obj\Debug\ConstructorandBaseKeyword.exe
+C:\Users\Admin\Desktop\OOP_recap\ConstructorandBaseKeyword\obj\Debug\ConstructorandBaseKeyword.pdb
