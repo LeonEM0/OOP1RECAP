@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Structuredprogramming\Finalproject\Finalproject\obj\Debug\net6.0\Finalproject.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Structuredprogramming\Finalproject\Finalproject\obj\Debug\net6.0\Finalproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Structuredprogramming\Finalproject\Finalproject\obj\Debug\net6.0\Finalproject.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Structuredprogramming\Finalproject\Finalproject\obj\Debug\net6.0\Finalproject.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Structuredprogramming\Finalproject\Finalproject\obj\Debug\net6.0\Finalproject.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Structuredprogramming\Finalproject\Finalproject\bin\Debug\net6.0\Finalproject.exe
+C:\Users\Admin\Desktop\Structuredprogramming\Finalproject\Finalproject\bin\Debug\net6.0\Finalproject.deps.json
+C:\Users\Admin\Desktop\Structuredprogramming\Finalproject\Finalproject\bin\Debug\net6.0\Finalproject.runtimeconfig.json
+C:\Users\Admin\Desktop\Structuredprogramming\Finalproject\Finalproject\bin\Debug\net6.0\Finalproject.dll
+C:\Users\Admin\Desktop\Structuredprogramming\Finalproject\Finalproject\bin\Debug\net6.0\Finalproject.pdb
+C:\Users\Admin\Desktop\Structuredprogramming\Finalproject\Finalproject\obj\Debug\net6.0\Finalproject.dll
+C:\Users\Admin\Desktop\Structuredprogramming\Finalproject\Finalproject\obj\Debug\net6.0\refint\Finalproject.dll
+C:\Users\Admin\Desktop\Structuredprogramming\Finalproject\Finalproject\obj\Debug\net6.0\Finalproject.pdb
+C:\Users\Admin\Desktop\Structuredprogramming\Finalproject\Finalproject\obj\Debug\net6.0\Finalproject.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Structuredprogramming\Finalproject\Finalproject\obj\Debug\net6.0\ref\Finalproject.dll

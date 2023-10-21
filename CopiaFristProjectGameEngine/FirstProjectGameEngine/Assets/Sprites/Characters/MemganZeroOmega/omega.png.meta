@@ -1,0 +1,8126 @@
+fileFormatVersion: 2
+guid: 315e787f5f1fc79419bd017d2c24d3ea
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: omega_0
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2514
+        width: 429
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb89f2e51a41213499e5f0ec096cb4cb
+      internalID: -1309772217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_1
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 2514
+        width: 244
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a814c39e3b833ac478d0e7ecda81e52a
+      internalID: 2143082271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_2
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 2514
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee2683218f167f4e8feaeb7b65d7b7b
+      internalID: 2103539072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_3
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2456
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bb8eafab9ae7e4a8e3b5d6615e8330
+      internalID: -2020406972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_4
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 2456
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eba83c7f9d8293478653b339071f852
+      internalID: -190158367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_5
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2456
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765f2ad142d63954583063b70cc17764
+      internalID: -1260985634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_6
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 2456
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e359c16e5bdc2e498b24bd75eb77de1
+      internalID: 1433844217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 2456
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbdaec2da0d0d649b07bc17b59e5921
+      internalID: 1634560774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_8
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 2456
+        width: 77
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babfa85a34ab9c14ead45707e45cc90f
+      internalID: 2092766436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_9
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 2456
+        width: 234
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3452413af1a27b648a3967ae3c82f173
+      internalID: 709965747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_10
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 2456
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ae5e4fcf009f14c81d64dd777d6b99
+      internalID: 479022408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_11
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 2456
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42884f0e94906c4abdec970c59a9624
+      internalID: 379898428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_12
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 2456
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803e1c5cf5a154c4fbef050dae131de8
+      internalID: 171421582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_13
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 2456
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a039288572f9064caf5fbe6751e8eb6
+      internalID: 236251482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_14
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2456
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc08c63a4acd294d930ace66fee5d2b
+      internalID: 162916315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_15
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 2456
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bee64ef1133b145a21c8ccb45f1a5f
+      internalID: 610101381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_16
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 2456
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476bcc0c375675c4d97779939d88eaf2
+      internalID: -1686808601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_17
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2394
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a04ae46aaac87499d86b167434c2f3
+      internalID: 198965999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_18
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 2394
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88cb9bf3aeb2f74098c879f2d48de63
+      internalID: -135375304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_19
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 2394
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41032fe73ad35274fbb47144f3caf849
+      internalID: -283105205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_20
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 2394
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea10c5969d9fcc4381d22696cd5f750
+      internalID: 1653391741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_21
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2394
+        width: 134
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb08186b1af994747844527623e27da0
+      internalID: 2138051486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_22
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 2394
+        width: 93
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd5f3a1244f994488ac86ea386cf352
+      internalID: -931881004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_23
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 2394
+        width: 80
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f596ec76fdc8ec41919568793d9398a
+      internalID: -2103892566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_24
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 2394
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e84384813a8bfb4fb2f63ade04a1479
+      internalID: -1438084940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_25
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 2394
+        width: 80
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de56793a076c93c4095f9639aa903b76
+      internalID: 1063198747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_26
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 2394
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421f6d64ea2577d4890367fd25dc0f78
+      internalID: 1790585840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_27
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 2336
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161566f2375388b4ea43ae412d054a2a
+      internalID: -65095974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_28
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 2336
+        width: 75
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5218d707a2f66e64db5e42be4692bbca
+      internalID: 1205426734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_29
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 2336
+        width: 75
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f296b43ef6757d409d209d89293d6dd
+      internalID: -1249049843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_30
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 2336
+        width: 103
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fc6be99a7b5fd44978626b5bcdcc1a
+      internalID: 83147936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_31
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 2336
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4495edad4f603488af7c6c2d54e44f
+      internalID: 1842299335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_32
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 2336
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0907cdd612f0541a494e9cedabdb84
+      internalID: -1856513982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_33
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2336
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c2f659bed241643886b32a596c2bea
+      internalID: -2006031245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_34
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 2372
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41283819f24a7d64ab8aa77ff729723e
+      internalID: -995523090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_35
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 2336
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b1a461a83386442b0eeee633d5eda5
+      internalID: -1340227369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_36
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2280
+        width: 78
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b194a994d157be44690843bb2bbd34be
+      internalID: 876826478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_37
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2280
+        width: 77
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4329c5b99e83bb14a90dc860f96d5b16
+      internalID: 822219592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_38
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 2280
+        width: 68
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64953404cd0408f4d876f6eb0b53a422
+      internalID: -1022176181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_39
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 2280
+        width: 119
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23718e539a3d8604389fbbd872989ec8
+      internalID: -1220603181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_40
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 2282
+        width: 102
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407030a95bb1c10468eff8990cd988b2
+      internalID: -626059697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_41
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2277
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0f84a95f0a387478e38d31591b9151
+      internalID: 576408964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_42
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2210
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f32ce67ea41b954db837db5c0f70065
+      internalID: 625766827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_43
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2212
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339e29b47fb15dc40a0647af594ae772
+      internalID: 795319125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_44
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 2212
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be895b80dce302641b60c289fd7b63d1
+      internalID: 2018152784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_45
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 2212
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a690b058e3650d146b1f72d878d678e1
+      internalID: -1925618219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_46
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 2212
+        width: 166
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac131d5ae6c73e40b81c0bd7f4ab376
+      internalID: 164945633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_47
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 2212
+        width: 72
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d400f96654fa3478cdfea2c8eb704a
+      internalID: -1717720846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_48
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 2212
+        width: 65
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6182da7f02a838147852627ffb901356
+      internalID: 531878674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_49
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 2212
+        width: 144
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e549fcb6993474da02c156289ba90d
+      internalID: -154195637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_50
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 2212
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfe7a83b7e9deb488300c13605d05f7
+      internalID: 1040698790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_51
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 2212
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2899a357925a7648b071f1232a5e71b
+      internalID: 2063857106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_52
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 2159
+        width: 96
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779538fb3553ae748bfa884300a50b3e
+      internalID: -1373834688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_53
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2159
+        width: 74
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04c4710f20b6d949847c627cdf4180c
+      internalID: 587261530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_54
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 2159
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512ad351e2f710740ae0b39b09a14b19
+      internalID: 741745767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_55
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 2159
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbdf033524f8fc4e900f908c669e28b
+      internalID: 184610985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_56
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 2159
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbaed3b6b6e2c974d9bc814c75da4478
+      internalID: 1443959228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_57
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 2159
+        width: 174
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f882a01e3dcb694dadfaf38bf3ebb52
+      internalID: -374548943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_58
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 2159
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92dcdd7f4708eec43af0ff60b79c5143
+      internalID: 646459021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_59
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 2159
+        width: 241
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d00c3662beceb4b9e1a9c15aa23574
+      internalID: 2022775194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_60
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 2114
+        width: 77
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2819bbacdddd47c49853e98dc0729f1d
+      internalID: -987349658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_61
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 2114
+        width: 78
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7e840cabcae7a46abc9eb1ca8a955e
+      internalID: 606095401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_62
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 2117
+        width: 76
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5817b11264b244e822485c207c423e
+      internalID: -40783172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_63
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 2128
+        width: 70
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46353b681b6c604fbeb39e24b53fd22
+      internalID: -2077410563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_64
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 2068
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebec6ccf25389e4e92f1509d99fb54e
+      internalID: 371098005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_65
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 2063
+        width: 69
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8375a8c1bc9451940b3373716114422c
+      internalID: 792343437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_66
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 2063
+        width: 70
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6c10324e444c9408f5d98aa9f89106
+      internalID: -253848951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_67
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 2063
+        width: 69
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e330b9aeacb7c4e880bb7dd217bcd8
+      internalID: 320459815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_68
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2063
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39696087c2bd78e4a87c709398f7ffb5
+      internalID: -1190353640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_69
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 2063
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4383f6f38c5dfe342b3cb46d54a64e76
+      internalID: -1196897229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_70
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 2065
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f1357c629cf8342865d070bc881e8a
+      internalID: -1023909249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_71
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 2058
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a78a8215b2ec749a294334e918bcae
+      internalID: -409478548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_72
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 2068
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdcd9f64c2a0a04a81950ad55cbc659
+      internalID: 18589477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_73
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2003
+        width: 255
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fa9753ffec1154d9e5fef6a81a42d0
+      internalID: -197273529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_74
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 2003
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8296122e3326bfb4fa2594070f097544
+      internalID: 1974604896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_75
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 2003
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa284aa28d83ef54f8c1078932578a80
+      internalID: 502551187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_76
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 2003
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ab36ced98085a4a8facc2a0aa1d265
+      internalID: -496875415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_77
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 2002
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736bf0e8cd75af04e8511f86f993fa64
+      internalID: -1142753410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_78
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 2002
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c415276b9c5b384a8edfe185aeaba15
+      internalID: -1864549539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_79
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 2002
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1982ab9e09f84644af6746bdc00a6b2
+      internalID: 280622501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_80
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 2002
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cb5db0408144743bf8665df3bb4e31
+      internalID: -327168764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_81
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1945
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a693273762bae59478c27debe81898d3
+      internalID: 1057995353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_82
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1945
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e43c1ef0c8739e4abeae97d9cc61dfa
+      internalID: -1210116561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_83
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1945
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9716edbe367998e48a64aa915f89f6bd
+      internalID: -90031717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_84
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1945
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcad9a0d372b264897c86dfa18514d7
+      internalID: -1097227192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_85
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1945
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4338d6dfd6ca4448ad3a4922b8c050c
+      internalID: -929852628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_86
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1945
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a070a47cbe0624184ece0247e046ee
+      internalID: -582872665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_87
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 1945
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3395c6253c9f24ba065897f366fd16
+      internalID: 36998590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_88
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1945
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4156a5530eefb468c69c4f284bfe28
+      internalID: 551981504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_89
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1945
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c789433d7e379da4e9d13937c5a0a59d
+      internalID: -107554527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_90
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1945
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6e1eefb7a768f4c84d3dd5ac55649f
+      internalID: -1537198533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_91
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1883
+        width: 97
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e77d3fc1c4bf149a6e2d063180c7e5
+      internalID: -572728380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_92
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1883
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6de6c4ef2634b4a988f89204900808
+      internalID: -392894494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_93
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1883
+        width: 103
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb51117d68feb4a41860865bbd5ef018
+      internalID: 999235499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_94
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1883
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb841a1c68ff63146bbb701094548584
+      internalID: 368901613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_95
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1881
+        width: 155
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fef11c8e9e9db4a8a508741a5d2d13
+      internalID: 1746857813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_96
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1880
+        width: 94
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac46f4ab666c3df408dddd4e38b63f69
+      internalID: -21820729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_97
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1820
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f169c28ae23914cb741796cc72f759
+      internalID: -1026721529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_98
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1820
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f084740c7c7cf57479ebfc13fc330068
+      internalID: 192936840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_99
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1820
+        width: 62
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1136b3960a87d1b449c7faf99babcde8
+      internalID: -153042864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_100
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1820
+        width: 483
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08df81081e15bc458b7dcce85d4006c
+      internalID: 819585971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_101
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1756
+        width: 275
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8941180b66f66b0418958baa723b5314
+      internalID: -1111231812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_102
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1756
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a33275b956a0c8478a2f5150a84b3c7
+      internalID: -137141344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_103
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1756
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa040fec0b828be4fa11f48aa9b92345
+      internalID: 112916770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_104
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1771
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc0294e2da652c4fa7f60954514ad04
+      internalID: -315733750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_105
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1756
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38d9b0cf13e2c842882e9e4c97e2760
+      internalID: -1333061056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_106
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1756
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a858f114c4864409f45e4842718e1c
+      internalID: 752403901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_107
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1756
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4dd3dda8f5a1424392ee0486443c591
+      internalID: 228619869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_108
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1670
+        width: 90
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd7e641688c5af43bab6c3535e11836
+      internalID: -1976811259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_109
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1670
+        width: 88
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9534392a44ba0640a993d71886c9f47
+      internalID: -1893839874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_110
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1670
+        width: 89
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a73121e22a30734fb85edbd453f7d72
+      internalID: 187166636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_111
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1670
+        width: 90
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1cc95540efbc4941bf5d56f915551ed
+      internalID: 21875203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_112
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1703
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3fe525829884d4d8d1106b147d6764
+      internalID: -1883608360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_113
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1698
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24c9e817a7f3cd4eb684b3665ba8a62
+      internalID: 1244444040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_114
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1707
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631f2afde048d764b9609748a78a923f
+      internalID: -1794594923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_115
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1721
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1734d38c53737684aa8bad65b00e79b2
+      internalID: -942908975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_116
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1708
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fbee643922dea4fa025f9ae5a51122
+      internalID: 1493565080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_117
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1670
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6975aa8c582dcdd4ea384b11e8c8b69d
+      internalID: -1265931085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_118
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1670
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987de2823ed205e4892096f4581bb83c
+      internalID: 773597387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_119
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1670
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab451a39d7d145448da724a37939ee7
+      internalID: 1450654355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_120
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1690
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ed3d3e2b4e6f743b51d5ad8d2d1472
+      internalID: 806149891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_121
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1697
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75323c9aa40df984bb82994c8c74f981
+      internalID: 789017558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_122
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1687
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d946d42627314478efd2bbf3ef674d
+      internalID: -1892026273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_123
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1670
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2566ed4ee6e3dc842b6caa223763d95c
+      internalID: 1134860157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_124
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1692
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e576e6198ab8d42a5e0e33413e7da2
+      internalID: -1274568263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_125
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1670
+        width: 84
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9209b47c726b4254493845adadd80f5d
+      internalID: 79112924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_126
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1670
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e9b43279cb40747ac9300483c6b922
+      internalID: -921962076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_127
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1670
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5359b7bdde8d54e952a32b4ff4bbcb
+      internalID: -1732730178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_128
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1692
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c163a828ea81848ae2fa6242b6949c
+      internalID: -987629744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_129
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1670
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be968dee4520bdc489a5c45a6740949b
+      internalID: 375429709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_130
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1680
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca18947a68d034a4ba5e11c7a0ce91c3
+      internalID: -1550816241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_131
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1670
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cad98c4420d9646b1fc343b67016ce
+      internalID: -1040556967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_132
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1681
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0dd69da99c5b7e46a9fc8621f10a652
+      internalID: -110904336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_133
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1574
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afc3ed4576d3e94ab8ac31de7458f8c
+      internalID: -637936916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_134
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1574
+        width: 189
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3512bab8ed9c6554dae770089ea47b47
+      internalID: 783919345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_135
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1609
+        width: 11
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9683f8fcf319fc4bacedb0c01b06a83
+      internalID: -1748638222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_136
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1574
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4466db3bee2fc1644b9bd1b69136c37c
+      internalID: 323829559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_137
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1621
+        width: 9
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabe9ea5ec1e4c84da57e6725342c95e
+      internalID: -624135644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_138
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1621
+        width: 10
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc57e0ebe5ee4ea47b42ea2fb9258c5d
+      internalID: -253374254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_139
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1611
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b98241592f8a642a7dc92ee5335e78
+      internalID: -1185441939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_140
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1624
+        width: 8
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3040e1b4e5eb69047b5f28865cfcfd4b
+      internalID: 678562991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_141
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1627
+        width: 9
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8068281af6d17ea40b2f7383df6249e5
+      internalID: -665537006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_142
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1613
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca912bb0c43051b40b0af4c92392c1b7
+      internalID: -261595214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_143
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1578
+        width: 63
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5dac187a0eedf548928f268c4353a0b
+      internalID: 1755858575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_144
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1583
+        width: 60
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8560230f99ce484692ebecc14186ef4
+      internalID: 1011806281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_145
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1583
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508b64478d24e614f9066244f8717e7a
+      internalID: 1934256413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_146
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1587
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccaa0c83303ee847b5ad076c30e001d
+      internalID: 512383875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_147
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1583
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498d9b66730886641ba5c0796ac8f161
+      internalID: 973320776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_148
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1583
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a56a8c27d2384c41bf338546ba1c3c0
+      internalID: 333353582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_149
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1484
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a000657baa8ec0439edd03a9d459e1e
+      internalID: -1946810851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_150
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1483
+        width: 77
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b825c1e68fc87142a093ad54aeabf4d
+      internalID: 918548246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_151
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1480
+        width: 76
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda8e75d7b648d5498acc3572adae3af
+      internalID: 121721350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_152
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1514
+        width: 10
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43489663bf4236e41810383e37b640f1
+      internalID: 253666521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_153
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1515
+        width: 13
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2f61527c9beae4681c2eddb9e6c1a0
+      internalID: 23705882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_154
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1500
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684755a669301644f880e6e66b302513
+      internalID: -1272173379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_155
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1527
+        width: 9
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e69e934778bfce41bfbe7f58cad4eba
+      internalID: -1883210161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_156
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1527
+        width: 10
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d39a8387964f7a46a66870af2be0937
+      internalID: -816437535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_157
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1517
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c7b5594bb83f64d8eeaaebdde44d10
+      internalID: 1425418229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_158
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1532
+        width: 8
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac24248aca73a7c42a49d9e90a558c7c
+      internalID: -1278353020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_159
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1534
+        width: 9
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4773cfdfe624f4c9507446bea6e8f3
+      internalID: -1458954629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_160
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1520
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0e87a25eafd4849b617a53aee28e11
+      internalID: 1136340364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_161
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1480
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a1db77ba8c3334996f66b32acd6c44
+      internalID: 1200386322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_162
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1480
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5be4a80c670a6448ea66fa2d5ed835
+      internalID: -1076870808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_163
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1504
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207793b76e42edb4e85fecd9ffa01893
+      internalID: -545516123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_164
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1484
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80d7ae1f3fb7384081c026fa83c3745
+      internalID: -458579654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_165
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1508
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52459383e847fe448b42887df66f0107
+      internalID: 1993074352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_166
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1485
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b940f5b3175e09b479d30b6d7a076190
+      internalID: -1512689430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_167
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1380
+        width: 99
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8585c22ccf5103488b9ab11c12fea90
+      internalID: 1258980159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_168
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1380
+        width: 76
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b28a097d21b9f4682b5400cb82606d
+      internalID: -2121768676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_169
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1399
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393a771e84c4d154989e62ae9d197a86
+      internalID: 1440039595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_170
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1416
+        width: 10
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e982bd0f0f1c2974aaa8cea4ac60bd66
+      internalID: -1896486642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_171
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1403
+        width: 32
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea4f031f5e971f4889fd80351a85ad0
+      internalID: 883875136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_172
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1429
+        width: 7
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a577e430120a9478260893f3c7bc9e
+      internalID: 1662311488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_173
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1429
+        width: 10
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4f87674e8ba5d48931e8422cea1822
+      internalID: -251029058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_174
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1419
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99843321b1e16ff44bbdee0a93e3ae83
+      internalID: 70177267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_175
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1434
+        width: 8
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3ce4a627f24ae45a5d646eabdbfdde
+      internalID: -828271857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_176
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1437
+        width: 9
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53868bf3b7e2ae44b898abca56b35061
+      internalID: 282181456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_177
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1424
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a278130c622a6e848a9552624489525d
+      internalID: 691731112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_178
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1380
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a69ce19a5c3a1b459ac9d8b9fbf44ce
+      internalID: 1509725514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_179
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1380
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d518cce8cf523fe4f9644f8d361d5d11
+      internalID: 1741676773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_180
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1380
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a8c792594b06446ae88fcd471cbb95
+      internalID: 1608754944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_181
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1380
+        width: 68
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d015ea17527debd4fa8564aef6c4bd4b
+      internalID: 1850329976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_182
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1380
+        width: 62
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a984f70b931694883f099d22cae757
+      internalID: -680943183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_183
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1297
+        width: 289
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e448b7ee103324d4dab4e21db9e0fdab
+      internalID: 2031716597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_184
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1300
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1fabed6f7505f4fa5c41669245d05b
+      internalID: 1491213429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_185
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1300
+        width: 54
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4adc2ee7715184e8bcd6958e7f17b1
+      internalID: -1568879120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_186
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1299
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1283a893a2a3d74f8ff1323a35fcb0e
+      internalID: 2129087177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_187
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1299
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47de142d70358c43a36b158d6423ee3
+      internalID: 1500818749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_188
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1299
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae28bc1995b41cc479380735c31b8652
+      internalID: 544714100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_189
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1299
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd79e3260809d04aaf752d3dbc5cb78
+      internalID: 1107483253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_190
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1358
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669878724bc469e48b42fff8e423d678
+      internalID: -241469652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_191
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1300
+        width: 132
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0653940b28b87774db39f8784966da86
+      internalID: 884052623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_192
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1299
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62043898945bd7b45a869859d293bf8a
+      internalID: 711369707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_193
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1299
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd97215ed2667ae45b63ef544717ec4d
+      internalID: -308053309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_194
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1249
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fdabd989918d77489d2eb87e4eaf718
+      internalID: -196378621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_195
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1249
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07dcebbced44b8b48bd4fc16802b882f
+      internalID: 236830302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_196
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1249
+        width: 71
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a9868cc59adc549b03e2031d8f31e0
+      internalID: 1391765323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_197
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1249
+        width: 327
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8cab86d9dc01f4bbec94cbf10ecc8f
+      internalID: 1436265744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_198
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1249
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da781a23a6ff88a4d9ef919149b3d22e
+      internalID: -1936713338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_199
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1196
+        width: 88
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fd7005040224042979c8510c7278f1
+      internalID: -432849749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_200
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1197
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516f281cbf2b12c4faaebcbc0b6cd5d6
+      internalID: -2087159463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_201
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1197
+        width: 146
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3a67157ef4c8f4a97cc244e65f3e88
+      internalID: 1007635398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_202
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1197
+        width: 386
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff37e71715b2ce442a3a7f241fe08fad
+      internalID: -1128404535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_203
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1151
+        width: 135
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f804bd4781c239441a36911680d50817
+      internalID: -24958418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_204
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1151
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52b05800777ecc49a9c4a826b5f45bf
+      internalID: 1763657885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_205
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1151
+        width: 124
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe5f47acd4477841bf12f7ef93d86c9
+      internalID: 1876940850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_206
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1151
+        width: 140
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b036e9f931443419d0a12410c402fa
+      internalID: 2066797772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_207
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1151
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0d0a95e5bd6164bb1b38f672f6a67c
+      internalID: -1923635230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_208
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1106
+        width: 137
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d0669198bda3f42a63d0f05e28c301
+      internalID: -1196451589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_209
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1106
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c53a39ef168f048a2ef44ae718b5d3
+      internalID: -687994573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_210
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 1106
+        width: 126
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9960c776fc51d1b4da94bb436ff9b6fa
+      internalID: 2075275157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_211
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1106
+        width: 190
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7ae26770d86ea4a8991bc4575838a1
+      internalID: 1243346764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_212
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1052
+        width: 104
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eab4ec018fc9604794fa66a033eb55a
+      internalID: 1048650491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_213
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1052
+        width: 199
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f184f5e52016a428bc4d70d30c9759
+      internalID: -152814865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_214
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1052
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a1983c44074dd4caedf124bd6a1e37
+      internalID: -2006982731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_215
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1052
+        width: 96
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182dd0bfc919ad4418d7ee635365ccc3
+      internalID: -2068957543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_216
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1052
+        width: 200
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba550361d7dcf324692487f0fdfe1f61
+      internalID: -1715436461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_217
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1052
+        width: 97
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51be58d7b4a12c49a2e4737998a5608
+      internalID: -1819810713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_218
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1052
+        width: 96
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948a4412c2f65cf43b17d349d80e6962
+      internalID: 1186170739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_219
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 993
+        width: 89
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b544fed29b442f9498d330713d14bc1d
+      internalID: 356800744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_220
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 993
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2375c1ccc28b047a8b7b1f635c806a
+      internalID: -1723247931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_221
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 993
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d62f48cff8c3f745bd60d947a591e62
+      internalID: 291692773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_222
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 993
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0ebbc87cc44684da41b69967ce2093
+      internalID: 397772795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_223
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 993
+        width: 116
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f107824976d87764dbb6759e442b983a
+      internalID: 295192385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_224
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 993
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e442ff68095c5454ba4c3ca78245db97
+      internalID: 1139502441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_225
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 993
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330996aa9fb146f4d83bd1bc6d9ae3eb
+      internalID: -1595005047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_226
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 993
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fcb211c38259d49a90f8901ffecb83
+      internalID: -2135874390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_227
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 993
+        width: 275
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0913ade6849d80a47a30bb00e69b588e
+      internalID: 1680846589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_228
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 993
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e688100eba2b34ba7a76527afd4158
+      internalID: -1254684089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_229
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 929
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d506e87cbabbcc42af251ec06ce7f2f
+      internalID: -738946882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_230
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 925
+        width: 265
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daee3147d658f5149acae137bc7156ef
+      internalID: 791531538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_231
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 929
+        width: 91
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4316c2b918c0457409438b4c572d77df
+      internalID: 1412750792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_232
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 929
+        width: 205
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef56200ac959cd4c8181dc4f7cc1dae
+      internalID: -1299812642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_233
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 929
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806fb14c654883f4ea3a6ca029977315
+      internalID: 1294137978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_234
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 929
+        width: 73
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3893a01f7fe2fe44c8d8bf22eab5fa64
+      internalID: -690194494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_235
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 929
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9287bf0de83c34a8a28a830f1ef864
+      internalID: -269057439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_236
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 929
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0cbc4b065c14b4b9c1e6f380b74594
+      internalID: -576314503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_237
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 934
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143926d8377bc344eb5155e13c8e10d0
+      internalID: 1155569915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_238
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 929
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e6b56dbec9f1a429190cb3cf59c024
+      internalID: -1269982729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_239
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 864
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec0cb952d518e04b97e943407d2c547
+      internalID: 1115554131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_240
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 861
+        width: 265
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca430b7f21c49f041b0f6a0aebbc0d0c
+      internalID: -1111039739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_241
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 864
+        width: 297
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4700117881c19c4982b3be47345ab32
+      internalID: 1037818915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_242
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 864
+        width: 58
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7625d120d2747144aa289f8146a6e811
+      internalID: 1318672064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_243
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 864
+        width: 71
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c401635c004e245ad0e73e61cbdbcb
+      internalID: 2032378640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_244
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 864
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3587071a63ba50744a9c760205d74091
+      internalID: -508536507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_245
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 864
+        width: 99
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c18bc509071ea40af1dee78c657986
+      internalID: -242631187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_246
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 785
+        width: 160
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed645dd649c76648b91e92cdfd519ba
+      internalID: 1280096845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_247
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 840
+        width: 44
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ee51c8c233d9b49b1c64e752a3fe18
+      internalID: -1808988546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_248
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 844
+        width: 39
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7302a742f338c4fa0dc0331de83152
+      internalID: 1807201280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_249
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 789
+        width: 79
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ebe16f56750ec40aa968f7a67710d2
+      internalID: 305571672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_250
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 789
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff1196e4ab06f1409bf0337d63dadb3
+      internalID: -394110729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_251
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 789
+        width: 118
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28479a5d0ae749f48b3b24a18240028e
+      internalID: -1942962710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_252
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 784
+        width: 78
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104d2384729f51e499dc6b38447ee34d
+      internalID: 1793410619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_253
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 789
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60828ee3bf984b40a319666a751fc71
+      internalID: 1497341158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_254
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 789
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effa65cd4e6a2924bb3a445903544b35
+      internalID: 610624157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_255
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 706
+        width: 160
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24ed61c88492594795e1acc8c3e4a5a
+      internalID: 1373775668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_256
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 762
+        width: 44
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57079004eab3ef41b47042406b64dd7
+      internalID: -2042399773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_257
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 766
+        width: 39
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2358ec3e14cb40041a2a931ea7f4394f
+      internalID: 469407724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_258
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 706
+        width: 216
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402ea3a95c32c064db5d64d18172b44d
+      internalID: 573469208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_259
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 706
+        width: 78
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d3ffda21cb94b41a4e987e73ce9c66
+      internalID: -833449521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_260
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 707
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a20ddd781519d41a967d81b618be7d
+      internalID: 1997613844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_261
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 707
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437898c21439fa54ca37c947bd97c6c2
+      internalID: -50201742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_262
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 640
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703c7a762a2ca67488709d880590ab20
+      internalID: 585244569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_263
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 636
+        width: 265
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745dde0553c84454c833151e71566d2b
+      internalID: -141607419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_264
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 640
+        width: 293
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566fe491e3af4324e80fde711bebea37
+      internalID: -1584389048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_265
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 640
+        width: 57
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e2475b6cc7f834b853eeb5f9c4a8c6
+      internalID: 307451475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_266
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 640
+        width: 73
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26905800b5a6d76418413297aecf43c5
+      internalID: -1673189418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_267
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 640
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c0cae1151d5c84ab730804059334c1
+      internalID: -1383650838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_268
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 640
+        width: 57
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc67771f9b58bab4a8ab86a4c037fe70
+      internalID: 996488739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_269
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 645
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be3584cfe4372e4d94dc36de1e4b54e
+      internalID: 1275609746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_270
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 640
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6effd073ee5f545943be3468a42bcc
+      internalID: -1767668700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_271
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 576
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aad1ff8dd1ecf54b8339408e2a6fecb
+      internalID: 1921986281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_272
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 572
+        width: 265
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b914dd9aae6784fa7a639dcc8180a9
+      internalID: -2118932702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_273
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 576
+        width: 297
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0aa2898c144bc6429cfc679c2813ae8
+      internalID: 1461880262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_274
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 576
+        width: 57
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5479742d166e691489ad45b8cb22d0dc
+      internalID: 750772900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_275
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 576
+        width: 73
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66c86858c0ea1640a66f3a67e56850e
+      internalID: -1606834999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_276
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 576
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24966521b5f6d1c4a83605dc69d8b610
+      internalID: -645171891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_277
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 576
+        width: 65
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8e858f9637cbe43a6d4d71d1e1310e
+      internalID: 123627873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_278
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 576
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6939adce5b02a2649b2ef73be91124be
+      internalID: -1259529088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_279
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 496
+        width: 276
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e5c70b59474944c99775a5695812be
+      internalID: 584850073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_280
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 552
+        width: 43
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0808159afefe66640bceb48daf432c43
+      internalID: 2079823885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_281
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 554
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f13c253f73dd642b4b06e86fe22a58
+      internalID: -2000120210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_282
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 499
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a66660dc108b644c8d5b2115144c829
+      internalID: -389189922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_283
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 499
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22da2034543fe2409a206a78a5b1b4c
+      internalID: 709775307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_284
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 499
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8242f948523c2684c846a3dab0e6520e
+      internalID: 901109514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_285
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 494
+        width: 78
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68ca87de71381742b8fa2f7e2a51997
+      internalID: 279503435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_286
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 499
+        width: 56
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e964994e8f3d3e4a823163a98da420f
+      internalID: -1442191201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_287
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 499
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188168a7baf855346900130d6fa805ca
+      internalID: 2046033518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_288
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 417
+        width: 367
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867e837c8fd6781439ea50b540ff10bb
+      internalID: -376561789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_289
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 473
+        width: 43
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a34ba7537655340a49576aa57ee158
+      internalID: -1582825606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_290
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 478
+        width: 40
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb62f510dcc4644497935160f4565f8
+      internalID: -748137950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_291
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 418
+        width: 78
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91baae6ec302304fb7ba7bb1d730432
+      internalID: -1468252656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_292
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 419
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c5e59aa9c19d148ae65e59c823dfc6
+      internalID: 673851902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_293
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 419
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b7b9b1b770ca24582f7a39c2accdd8
+      internalID: 21642715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_294
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 359
+        width: 154
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410b509dab7f68b4f8f90fba7d6f69d6
+      internalID: 703765058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_295
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 359
+        width: 107
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95bdd8218edda14d819404ce12b256b
+      internalID: 2104659621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_296
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 359
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66aa91e09b73ed642b9b16756eae0854
+      internalID: -447044701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_297
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 359
+        width: 62
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62160970e0abb0b4bb28be2903318f30
+      internalID: 906044079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_298
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 359
+        width: 133
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb513f5f53140aa48b57b31dc4953992
+      internalID: -322929154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_299
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 359
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9223a2a16e3b9dc4cbb31ee7a63ad172
+      internalID: 129014789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_300
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 359
+        width: 231
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2299e14a7bf8324fadde98098fa5eeb
+      internalID: 28913022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_301
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 296
+        width: 248
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0223eeb41c83742baeebbe5804453b
+      internalID: 1804536279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_302
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 296
+        width: 69
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562ce6649de7f4843b9b9c8282ca0edb
+      internalID: 1068614663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_303
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 280
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc05b281518581449b9525bd4bde157
+      internalID: 1669204813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_304
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 245
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5096c26bd40aa0246ab0e34c94e45713
+      internalID: 976369723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_305
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 265
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d30cc17d37d994da76075b7572a400
+      internalID: -1606889699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_306
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 273
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d97e830322bbe4a91a668582bb36fb
+      internalID: -2037040796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_307
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 264
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd14c06dc93a0b489b0b6142477e4aa
+      internalID: 278875365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_308
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 265
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0895d2f9b02aa45bdd111f9ba744d8
+      internalID: -1010129207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_309
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 274
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674d68144be486b4a8977604b4a9baa9
+      internalID: 240650467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_310
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 274
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0e180c9fa0df44b90a0106b0df364b
+      internalID: -1817868732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_311
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 260
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bd3001b7263c546bf38faae9ad31a4
+      internalID: -2102392884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_312
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 265
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c388160f2a92d40a853a54828c676a
+      internalID: 937290619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_313
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 259
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8398f4b5a438a7940ad13def9e34aad0
+      internalID: -1620629589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_314
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 259
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7517010b1b9d6f141b0c7cbd52677767
+      internalID: -255305374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_315
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 254
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fff5a0d513dda45a9a412dbbe2092d
+      internalID: 591153467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_316
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 260
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389e4e6a70143e549bc1c70b7b78a7e0
+      internalID: -1579530382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_317
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 244
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93411b303923cd5419bcbbfd22360ec0
+      internalID: -1260713599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_318
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 264
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8480e629a6899d547a181b9882c9a3de
+      internalID: -974287887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_319
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 264
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd470f542ea877489802dd682e4da4a
+      internalID: 156542770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_320
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 265
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12b53950109481409d6d80df16beeb5
+      internalID: 994390760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_321
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 256
+        width: 62
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f5509a0129cc94284ba068a52315ac
+      internalID: -1173345352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_322
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 249
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b941a36e1673d648a85d3bb11554d0e
+      internalID: -1420145186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_323
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 250
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5de3246ebf9114db03875b5f84fb0a
+      internalID: 1663071848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_324
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 247
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b838913acd8ece546b5bf24853cd2abf
+      internalID: -1347588936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_325
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 240
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d3e45ec3b91f04794ab8fb2de3f79b
+      internalID: 1076326909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_326
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 240
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61344efc025566e47b4eba0e00e385e6
+      internalID: -1712154915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_327
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 254
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72954a701c623f549a602ae50b040844
+      internalID: -56144849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_328
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 247
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d68d36e5f53cdb4a929d5faa1e4f2fd
+      internalID: -253806346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_329
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 246
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346d9120ceb326f418c352a35c10f15f
+      internalID: -449369357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_330
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 250
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77848adbd6b5f044b01beda52267563
+      internalID: -1113176212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_331
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 250
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01df1abb16738f4e9cc7a2e653762ed
+      internalID: 298474045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_332
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 246
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde1dfebd5d22e54e9670e9b6f44cf0a
+      internalID: -2013113470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_333
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 246
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75138d1c0b38d784fa56ea501a17bc3b
+      internalID: -1292064431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_334
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 240
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814555dcd1b099347b7b2aefb8f513c3
+      internalID: -875257771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_335
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 240
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb372678c3839a4186760956f51885d
+      internalID: 562682175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_336
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 240
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aedda088955f4a468927dd1e0a2818e
+      internalID: -1988863415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_337
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 240
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e261897e145d3a4292f506ff5d5227f
+      internalID: -328934798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_338
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 189
+        width: 404
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d7d6f2b3fbbb640832b1feda085fd3
+      internalID: 1782883653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_339
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 184
+        width: 106
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35a2b2c8f82eee4ea09ec61cf77f7b7
+      internalID: -1999776066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_340
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 224
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb809477aab3144aa523daf0d8e2998
+      internalID: 1856384121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_341
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 222
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5200d66ab6c004bbc6b51de211bb97
+      internalID: 696670019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_342
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 101
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388f9fa8a422edb4396d8092ead02833
+      internalID: 1223164796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_343
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 101
+        width: 97
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b84213dd520de74690d7db8f6d2f1ff
+      internalID: -1801539976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_344
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 111
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc5984ebb9cfc941af082fd31200c07
+      internalID: 1758920268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_345
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 105
+        width: 305
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574f91503eddc634db44ed8133d4062e
+      internalID: 1703803480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_346
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 111
+        width: 84
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94372ffe046e87943b215f322da38b98
+      internalID: -1482372344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_347
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 72
+        width: 69
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd803fd864af12446b463c5f5bd9924b
+      internalID: 1958312561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_348
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 16
+        width: 175
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1600d6963f00b694e9029e1018d70ed7
+      internalID: -143065287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_349
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 37
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ecab5accf772f4ab0a18fceeed36c5
+      internalID: 428728058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_350
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 2
+        width: 94
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc43e9830beb55c4fa2b84ebb842cf6c
+      internalID: -13496791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_351
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 17
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ace183453ec3af46a3fa6f0bff8ae16
+      internalID: 1195766791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_352
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 17
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bd0c48dda40804abcc9a697257e57f
+      internalID: 540955216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_353
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 17
+        width: 69
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b61a05cff1ae44eafd6ef8d8779b01
+      internalID: 464424005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_354
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 17
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41a226b7b01b3b49ae452d28f7cddcc
+      internalID: 1712979436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_355
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 26
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7e51b19f8bc324183c31a683d61fb9
+      internalID: 863204985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_356
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 11
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb17c5d42d894443b975701b41df0b6
+      internalID: 1046653640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_357
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 23
+        width: 147
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6034cadf407eab48a7f842cc27a8f4a
+      internalID: -1722424859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_358
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 9
+        width: 70
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e2b4a2effc237429f96c5f851403c7
+      internalID: 1413649765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_359
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 14
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1dfba2d0bad6541bff516b1c112d92
+      internalID: -360575491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_360
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 17
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd7ae26f9faa2f43a141520b4446677
+      internalID: 2116981617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_361
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 21
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d8a36a145e7bd4496cd4518cd29159
+      internalID: -1890476638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: omega_362
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 17
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6761d5e4661a8944498b902586804403
+      internalID: 253874260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8d6465592f76ba549b47498c3e492220
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      omega_0: -1309772217
+      omega_1: 2143082271
+      omega_10: 479022408
+      omega_100: 819585971
+      omega_101: -1111231812
+      omega_102: -137141344
+      omega_103: 112916770
+      omega_104: -315733750
+      omega_105: -1333061056
+      omega_106: 752403901
+      omega_107: 228619869
+      omega_108: -1976811259
+      omega_109: -1893839874
+      omega_11: 379898428
+      omega_110: 187166636
+      omega_111: 21875203
+      omega_112: -1883608360
+      omega_113: 1244444040
+      omega_114: -1794594923
+      omega_115: -942908975
+      omega_116: 1493565080
+      omega_117: -1265931085
+      omega_118: 773597387
+      omega_119: 1450654355
+      omega_12: 171421582
+      omega_120: 806149891
+      omega_121: 789017558
+      omega_122: -1892026273
+      omega_123: 1134860157
+      omega_124: -1274568263
+      omega_125: 79112924
+      omega_126: -921962076
+      omega_127: -1732730178
+      omega_128: -987629744
+      omega_129: 375429709
+      omega_13: 236251482
+      omega_130: -1550816241
+      omega_131: -1040556967
+      omega_132: -110904336
+      omega_133: -637936916
+      omega_134: 783919345
+      omega_135: -1748638222
+      omega_136: 323829559
+      omega_137: -624135644
+      omega_138: -253374254
+      omega_139: -1185441939
+      omega_14: 162916315
+      omega_140: 678562991
+      omega_141: -665537006
+      omega_142: -261595214
+      omega_143: 1755858575
+      omega_144: 1011806281
+      omega_145: 1934256413
+      omega_146: 512383875
+      omega_147: 973320776
+      omega_148: 333353582
+      omega_149: -1946810851
+      omega_15: 610101381
+      omega_150: 918548246
+      omega_151: 121721350
+      omega_152: 253666521
+      omega_153: 23705882
+      omega_154: -1272173379
+      omega_155: -1883210161
+      omega_156: -816437535
+      omega_157: 1425418229
+      omega_158: -1278353020
+      omega_159: -1458954629
+      omega_16: -1686808601
+      omega_160: 1136340364
+      omega_161: 1200386322
+      omega_162: -1076870808
+      omega_163: -545516123
+      omega_164: -458579654
+      omega_165: 1993074352
+      omega_166: -1512689430
+      omega_167: 1258980159
+      omega_168: -2121768676
+      omega_169: 1440039595
+      omega_17: 198965999
+      omega_170: -1896486642
+      omega_171: 883875136
+      omega_172: 1662311488
+      omega_173: -251029058
+      omega_174: 70177267
+      omega_175: -828271857
+      omega_176: 282181456
+      omega_177: 691731112
+      omega_178: 1509725514
+      omega_179: 1741676773
+      omega_18: -135375304
+      omega_180: 1608754944
+      omega_181: 1850329976
+      omega_182: -680943183
+      omega_183: 2031716597
+      omega_184: 1491213429
+      omega_185: -1568879120
+      omega_186: 2129087177
+      omega_187: 1500818749
+      omega_188: 544714100
+      omega_189: 1107483253
+      omega_19: -283105205
+      omega_190: -241469652
+      omega_191: 884052623
+      omega_192: 711369707
+      omega_193: -308053309
+      omega_194: -196378621
+      omega_195: 236830302
+      omega_196: 1391765323
+      omega_197: 1436265744
+      omega_198: -1936713338
+      omega_199: -432849749
+      omega_2: 2103539072
+      omega_20: 1653391741
+      omega_200: -2087159463
+      omega_201: 1007635398
+      omega_202: -1128404535
+      omega_203: -24958418
+      omega_204: 1763657885
+      omega_205: 1876940850
+      omega_206: 2066797772
+      omega_207: -1923635230
+      omega_208: -1196451589
+      omega_209: -687994573
+      omega_21: 2138051486
+      omega_210: 2075275157
+      omega_211: 1243346764
+      omega_212: 1048650491
+      omega_213: -152814865
+      omega_214: -2006982731
+      omega_215: -2068957543
+      omega_216: -1715436461
+      omega_217: -1819810713
+      omega_218: 1186170739
+      omega_219: 356800744
+      omega_22: -931881004
+      omega_220: -1723247931
+      omega_221: 291692773
+      omega_222: 397772795
+      omega_223: 295192385
+      omega_224: 1139502441
+      omega_225: -1595005047
+      omega_226: -2135874390
+      omega_227: 1680846589
+      omega_228: -1254684089
+      omega_229: -738946882
+      omega_23: -2103892566
+      omega_230: 791531538
+      omega_231: 1412750792
+      omega_232: -1299812642
+      omega_233: 1294137978
+      omega_234: -690194494
+      omega_235: -269057439
+      omega_236: -576314503
+      omega_237: 1155569915
+      omega_238: -1269982729
+      omega_239: 1115554131
+      omega_24: -1438084940
+      omega_240: -1111039739
+      omega_241: 1037818915
+      omega_242: 1318672064
+      omega_243: 2032378640
+      omega_244: -508536507
+      omega_245: -242631187
+      omega_246: 1280096845
+      omega_247: -1808988546
+      omega_248: 1807201280
+      omega_249: 305571672
+      omega_25: 1063198747
+      omega_250: -394110729
+      omega_251: -1942962710
+      omega_252: 1793410619
+      omega_253: 1497341158
+      omega_254: 610624157
+      omega_255: 1373775668
+      omega_256: -2042399773
+      omega_257: 469407724
+      omega_258: 573469208
+      omega_259: -833449521
+      omega_26: 1790585840
+      omega_260: 1997613844
+      omega_261: -50201742
+      omega_262: 585244569
+      omega_263: -141607419
+      omega_264: -1584389048
+      omega_265: 307451475
+      omega_266: -1673189418
+      omega_267: -1383650838
+      omega_268: 996488739
+      omega_269: 1275609746
+      omega_27: -65095974
+      omega_270: -1767668700
+      omega_271: 1921986281
+      omega_272: -2118932702
+      omega_273: 1461880262
+      omega_274: 750772900
+      omega_275: -1606834999
+      omega_276: -645171891
+      omega_277: 123627873
+      omega_278: -1259529088
+      omega_279: 584850073
+      omega_28: 1205426734
+      omega_280: 2079823885
+      omega_281: -2000120210
+      omega_282: -389189922
+      omega_283: 709775307
+      omega_284: 901109514
+      omega_285: 279503435
+      omega_286: -1442191201
+      omega_287: 2046033518
+      omega_288: -376561789
+      omega_289: -1582825606
+      omega_29: -1249049843
+      omega_290: -748137950
+      omega_291: -1468252656
+      omega_292: 673851902
+      omega_293: 21642715
+      omega_294: 703765058
+      omega_295: 2104659621
+      omega_296: -447044701
+      omega_297: 906044079
+      omega_298: -322929154
+      omega_299: 129014789
+      omega_3: -2020406972
+      omega_30: 83147936
+      omega_300: 28913022
+      omega_301: 1804536279
+      omega_302: 1068614663
+      omega_303: 1669204813
+      omega_304: 976369723
+      omega_305: -1606889699
+      omega_306: -2037040796
+      omega_307: 278875365
+      omega_308: -1010129207
+      omega_309: 240650467
+      omega_31: 1842299335
+      omega_310: -1817868732
+      omega_311: -2102392884
+      omega_312: 937290619
+      omega_313: -1620629589
+      omega_314: -255305374
+      omega_315: 591153467
+      omega_316: -1579530382
+      omega_317: -1260713599
+      omega_318: -974287887
+      omega_319: 156542770
+      omega_32: -1856513982
+      omega_320: 994390760
+      omega_321: -1173345352
+      omega_322: -1420145186
+      omega_323: 1663071848
+      omega_324: -1347588936
+      omega_325: 1076326909
+      omega_326: -1712154915
+      omega_327: -56144849
+      omega_328: -253806346
+      omega_329: -449369357
+      omega_33: -2006031245
+      omega_330: -1113176212
+      omega_331: 298474045
+      omega_332: -2013113470
+      omega_333: -1292064431
+      omega_334: -875257771
+      omega_335: 562682175
+      omega_336: -1988863415
+      omega_337: -328934798
+      omega_338: 1782883653
+      omega_339: -1999776066
+      omega_34: -995523090
+      omega_340: 1856384121
+      omega_341: 696670019
+      omega_342: 1223164796
+      omega_343: -1801539976
+      omega_344: 1758920268
+      omega_345: 1703803480
+      omega_346: -1482372344
+      omega_347: 1958312561
+      omega_348: -143065287
+      omega_349: 428728058
+      omega_35: -1340227369
+      omega_350: -13496791
+      omega_351: 1195766791
+      omega_352: 540955216
+      omega_353: 464424005
+      omega_354: 1712979436
+      omega_355: 863204985
+      omega_356: 1046653640
+      omega_357: -1722424859
+      omega_358: 1413649765
+      omega_359: -360575491
+      omega_36: 876826478
+      omega_360: 2116981617
+      omega_361: -1890476638
+      omega_362: 253874260
+      omega_37: 822219592
+      omega_38: -1022176181
+      omega_39: -1220603181
+      omega_4: -190158367
+      omega_40: -626059697
+      omega_41: 576408964
+      omega_42: 625766827
+      omega_43: 795319125
+      omega_44: 2018152784
+      omega_45: -1925618219
+      omega_46: 164945633
+      omega_47: -1717720846
+      omega_48: 531878674
+      omega_49: -154195637
+      omega_5: -1260985634
+      omega_50: 1040698790
+      omega_51: 2063857106
+      omega_52: -1373834688
+      omega_53: 587261530
+      omega_54: 741745767
+      omega_55: 184610985
+      omega_56: 1443959228
+      omega_57: -374548943
+      omega_58: 646459021
+      omega_59: 2022775194
+      omega_6: 1433844217
+      omega_60: -987349658
+      omega_61: 606095401
+      omega_62: -40783172
+      omega_63: -2077410563
+      omega_64: 371098005
+      omega_65: 792343437
+      omega_66: -253848951
+      omega_67: 320459815
+      omega_68: -1190353640
+      omega_69: -1196897229
+      omega_7: 1634560774
+      omega_70: -1023909249
+      omega_71: -409478548
+      omega_72: 18589477
+      omega_73: -197273529
+      omega_74: 1974604896
+      omega_75: 502551187
+      omega_76: -496875415
+      omega_77: -1142753410
+      omega_78: -1864549539
+      omega_79: 280622501
+      omega_8: 2092766436
+      omega_80: -327168764
+      omega_81: 1057995353
+      omega_82: -1210116561
+      omega_83: -90031717
+      omega_84: -1097227192
+      omega_85: -929852628
+      omega_86: -582872665
+      omega_87: 36998590
+      omega_88: 551981504
+      omega_89: -107554527
+      omega_9: 709965747
+      omega_90: -1537198533
+      omega_91: -572728380
+      omega_92: -392894494
+      omega_93: 999235499
+      omega_94: 368901613
+      omega_95: 1746857813
+      omega_96: -21820729
+      omega_97: -1026721529
+      omega_98: 192936840
+      omega_99: -153042864
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
